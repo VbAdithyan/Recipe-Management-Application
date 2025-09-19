@@ -22,7 +22,11 @@ Users can add, update, view, and delete recipes easily through an interactive in
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your app here if available)
+<img width="1197" height="903" alt="Screenshot 2025-09-19 153956" src="https://github.com/user-attachments/assets/5c28efa8-946b-4233-bf71-82a6fc329bc2" />
+<img width="1200" height="349" alt="Screenshot 2025-09-19 154358" src="https://github.com/user-attachments/assets/12c29a96-ec3e-4cd4-b738-d3e763feba64" />
+
+
+
 
 ---
 
